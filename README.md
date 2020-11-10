@@ -10,3 +10,4 @@
 * [[Kubernetes] How to Implement Kubernetes Service - NodePort](https://www.hwchiu.com/kubernetes-service-iii.html)
 * [[Kubernetes] Service Overview ](https://godleon.github.io/blog/Kubernetes/k8s-Service-Overview/)
 * [From Zero to EKS with Terraform and Helm](https://aws.amazon.com/tw/blogs/startups/from-zero-to-eks-with-terraform-and-helm/)
+* [[Kubernetes] Debug & Troubleshooting 簡介](https://godleon.github.io/blog/Kubernetes/k8s-debug-and-troubleshooting-Overview/)
