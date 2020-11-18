@@ -11,3 +11,5 @@
 * [From Zero to EKS with Terraform and Helm](https://aws.amazon.com/tw/blogs/startups/from-zero-to-eks-with-terraform-and-helm/)
 * [[Kubernetes] Debug & Troubleshooting 簡介](https://godleon.github.io/blog/Kubernetes/k8s-debug-and-troubleshooting-Overview/)
 * [Getting started with Terraform and Kubernetes on Azure AKS(learnk8s)](https://learnk8s.io/blog/get-start-terraform-aks)
+* [Amazon EKS Workshop](https://www.eksworkshop.com/)
+* [EKS Best Practices](https://aws.github.io/aws-eks-best-practices/)
